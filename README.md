@@ -9,3 +9,5 @@ To learn more, visit [the foobar website](https://foobar.withgoogle.com/).
 
 Also, apparently some people have found a job thanks to this game
 ([Source](http://www.ibtimes.co.uk/google-foobar-how-searching-web-earned-software-graduate-job-google-1517284)). Fingers crossed!
+
+![How I entered the foobar challenge](/README_images/im1.jpg?raw=true)
